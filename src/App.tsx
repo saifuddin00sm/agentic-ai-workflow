@@ -88,7 +88,7 @@ function App() {
             {mockRunning ? '⏳ Running...' : '🚀 Run Mock Demo'}
           </button>
           <a
-            href="https://github.com"
+            href="https://github.com/saifuddin00sm/agentic-ai-workflow"
             className="px-6 py-3 bg-gray-800 hover:bg-gray-700 rounded-lg font-medium transition-all border border-gray-700"
           >
             📦 View Source
